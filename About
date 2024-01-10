@@ -1,0 +1,11 @@
+This application is developed by me and my friend that's why you will find V&A solution in first front panel, ie Vishal and Arbaz Solutions.
+So we used Apache Netsbean as an IDE for developing this application  and MYSQL  for storing data in backend.
+NOTE:Always try to use an updated version of application to build an application helps to run application over any system.
+
+Following are the key points want to share with you.
+. Try to optimize the use of IDE and it's features.
+. You can only advance yourself if you know the base.
+. For connection of database to application needs drivers.
+. Switch mavencompany package name to a package name in which you have stored all the classes.
+. Note. Package name is nothing but a folder name in which all classes and programs are buid 
+      . Try to avoid making multiple folders.
