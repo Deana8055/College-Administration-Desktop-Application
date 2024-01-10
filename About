@@ -3,9 +3,10 @@ So we used Apache Netsbean as an IDE for developing this application  and MYSQL 
 NOTE:Always try to use an updated version of application to build an application helps to run application over any system.
 
 Following are the key points want to share with you.
+. Calender jar file is downloaded from outsource to use date method rather than creating user define method.
 . Try to optimize the use of IDE and it's features.
 . You can only advance yourself if you know the base.
 . For connection of database to application needs drivers.
 . Switch mavencompany package name to a package name in which you have stored all the classes.
-. Note. Package name is nothing but a folder name in which all classes and programs are buid 
-      . Try to avoid making multiple folders.
+. Note . Package name is nothing but a folder name in which all classes and programs are buid 
+       . Try to avoid making multiple folders.
